@@ -1,6 +1,8 @@
 # Color Picker
 
-A simple and interactive color picker built with React and Tailwind CSS. This application allows users to select and copy color hex codes, and displays the selected color and its details.
+![Color Picker Demo](https://github.com/freddyfavour/color-picker/blob/main/display.gif?raw=true)
+
+A simple and interactive color picker built with React and Tailwind CSS. This application allows users to select and copy color hex codes and displays the selected color and its details.
 
 ## Features
 
@@ -84,5 +86,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: [Here](mailto:alfredfavour76@gmail.com)
+- **Email**: [alfredfavour76@gmail.com](mailto:alfredfavour76@gmail.com)
 - **GitHub**: [freddyfavour](https://github.com/freddyfavour)
